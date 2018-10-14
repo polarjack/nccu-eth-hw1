@@ -42,7 +42,7 @@ address: 0x0x80b565a45aa3f1ac0370deb3aa3fc3b12905975f
 
 ### 2.c Can you generate a Keystore with the password “nccu”?
 ```
-No
+{"version":3,"id":"95bbd25f-f977-4fc7-aad5-a45739ac4968","address":"03a03e709733ddec348a9bbbcc6b42882e1bd7ac","crypto":{"ciphertext":"490de89f1d3770ce58ad07c6f83913b295e8259243e45442ce1d6797c263c8de","cipherparams":{"iv":"301e2136817acdb84ee5751d0300261e"},"cipher":"aes-128-ctr","kdf":"scrypt","kdfparams":{"dklen":32,"salt":"2ced442693326381f1d5d5eb26a12cdd8172dbdf3fee10c2e6b37b879768e959","n":262144,"r":8,"p":1},"mac":"b6ef9f3ed99a63a05e96bcd9c19d0b02b97b478849c165afe33136b003f5aef4"}}
 ```
 
 ### Bonus
